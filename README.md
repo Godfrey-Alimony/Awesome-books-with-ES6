@@ -21,7 +21,7 @@ In this website you can add books of your choice to the list of books and save t
 
 ## Live Demo
 
-- [Live Demo Link](https://github.com/Godfrey-Alimony/Awesome-books-with-ES6]
+- [Live Demo Link](https://godfrey-alimony.github.io/Awesome-books-with-ES6/)
 - Live Demo Might not work due to 'luxon' module. So, you checkout it out by intalling it locally following the steps in 'Getting Started' section.
 
 ## Getting Started
